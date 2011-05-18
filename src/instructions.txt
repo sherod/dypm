@@ -1,0 +1,34 @@
+You need to copy TWO (2) files to your plugins directory
+
+File 1:   did_you_pass_math_functions.php
+File 2:   {your two character language code}\did_you_pass_math.php
+
+Frequently asked questions
+
+1. The plugin doesn't appear in the plugins list!
+
+Did you remember to copy your language specific 'did_you_pass_math.php' file?
+
+2.  I get an require error saying it couldn't find 'did_you_pass_math_functions.php'
+
+Did you remember to copy your language specific 'did_you_pass_math_functions.php' file?
+
+3. I don't see the question!
+
+You need to log out as Admin
+
+	or
+
+It's most likely your theme, it may not be compatible (I'm sorry, you are on our own here, there are just SO many of them).
+
+3a.  I get a php error
+
+It's most likely your theme, it may not be compatible (I'm sorry, you are on our own here, there are just SO many of them).
+
+4. I don't want to require my users to have session cookies turned on in their browsers
+
+Check the top of 'did_you_pass_math_functions.php' for instructions
+
+5. I have the 'k2' theme and I want the ajax error messages
+
+Check the top of 'did_you_pass_math_functions.php' for instructions
